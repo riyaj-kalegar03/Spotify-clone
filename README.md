@@ -9,5 +9,5 @@ in UI.
 
 ## Screenshots
 
-![spotify](../screenshort/Screenshot%202024-08-22%20204448.png)
-![spotify](../screenshort/Screenshot%202024-08-22%20204457.png)
+![spotify](./screenshort/Screenshot%202024-08-22%20204448.png)
+![spotify](./screenshort/Screenshot%202024-08-22%20204457.png)
